@@ -1,6 +1,8 @@
 Link 1: https://github.com/jtleek/datasharing
 Link 2: https://github.com/ilyaasp/datasciencecoursera/blob/master/HelloWorld.md
 Link 3: https://github.com/ilyaasp/datasciencecoursera
+
+
 How to share data with a statistician
 ===========
 
